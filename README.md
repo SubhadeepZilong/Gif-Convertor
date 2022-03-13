@@ -10,7 +10,7 @@ Gif Convertor Python Script
 
 ```
 - Run the python file "main.py"
-- Select Image to be compressed
+- Select Video to be converted
 - Select Save location and file name
 - It works with any mp4 videos, other video formats are untested
 ```
